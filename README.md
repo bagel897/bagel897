@@ -2,17 +2,16 @@
 
 ## About Me
 
-My name is Ellen Agarwal, and I am from Allen, Texas.
-I've graduated with a Bachelors of Science in Computer Science from UT Austin.
-
+Driven software developer with experience in diverse tech environments, specializing in Python, Rust, and cloud technologies like Docker and Kubernetes. I've successfully led projects that improved performance by over 10x, contributed to impactful open-source initiatives, and developed secure user interfaces that streamlined data access. My most notable achievement includes spearheading the Codegen SDK development, enhancing multi-language support and efficiency for our team.
 ## My Interests
 
 - Systems programming
+- Static Analysis
 - Backend development
 - Development tooling
 - Infrastructure
 
-## My Languages
+## Programming Languages
 
 - Python
 - Rust
